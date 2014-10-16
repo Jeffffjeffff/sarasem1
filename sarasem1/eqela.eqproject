@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# sarasem1
+#
+
+projectname: sarasem1
+vendorid: com.mycompany
+mainmodule: com.mycompany.sarasem1
